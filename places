@@ -1,7 +1,7 @@
 ;;; -*- coding: utf-8 -*-
 (("c:/Documents and Settings/Administrator/Application Data/.emacs.d/elpa/clojure-mode-1.10.0/clojure-mode-autoloads.el" . 1103)
  ("c:/Documents and Settings/Administrator/Application Data/.emacs.d/elpa/starter-kit-lisp-2.0.2/starter-kit-lisp-autoloads.el" . 1846)
- ("f:/a.clj" . 24)
- ("f:/clj/project.clj" . 170)
- ("f:/clj/src/clj/core.clj" . 196)
- ("f:/test.c" . 58))
+ ("c:/Go/src/cmd/8l/obj.c" . 3988)
+ ("f:/clj/project.clj" . 175)
+ ("f:/clj/src/clj/core.clj" . 233)
+ ("f:/code/redis/src/util.c" . 6924))
